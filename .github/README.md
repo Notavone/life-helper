@@ -5,13 +5,17 @@
 
 ## Changelog
 
+### Version 1.0.1
+
+*   Github things
+
 ### Version 1.0.0
 
-Initial commit
+*   Initial commit
 
 ## What makes this special ? 💎
 
-*   ⌛ **Easy "installation" :** clone the repository, unzip and open [index.html](./index.html).
+*   ⌛ **Easy "installation" :** clone the repository, unzip and open [index.html](../index.html).
 *   📌 **User Friendly :** intuitive design, don't spend hours figuring out how to do something.
 *   👀 **Open source :** you have an idea ? Just take the code and build something out of it !
 
