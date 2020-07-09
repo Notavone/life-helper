@@ -1,0 +1,64 @@
+[draggable] {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+body {
+  padding: 50px;
+}
+
+#columns1, #columns2 {
+  display: none;
+  list-style-type: none;
+  width: 400px;
+  border: 2px solid rgb(26, 26, 27);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0 0 5px 0;
+}
+
+.column {
+  width: 380px;
+  padding: 5px 0;
+  border-bottom: 1px solid rgb(26, 26, 27);
+  cursor: move;
+}
+
+input {
+  width: 400px;
+  height: 40px;
+  padding: 3px 5px;
+  margin: 0 0 5px 0;
+  border: 2px solid rgb(26, 26, 27);
+  border-radius: 5px;
+  color: black;
+}
+
+.new, #adjust {
+  width: 400px;
+  height: 40px;
+  font: bold 13px Arial, sans-serif;
+  background-color: rgb(39, 39, 41);
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(26, 26, 27);
+  border-radius: 5px;
+  margin: 0 0 5px 0;
+}
+
+#new:hover, #adjust:hover {
+  background-color: rgb(26, 25, 25);
+  border: 2px solid rgb(39, 39, 41);
+  transition: background-color 600ms, border 200ms ease-in;
+  color: rgb(255, 255, 255);
+}
+
+.right {
+  float: right;
+  border: none;
+  background-color: transparent;
+}
+
+.missing {
+  display: none;
+}
