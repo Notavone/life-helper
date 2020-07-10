@@ -1,4 +1,4 @@
-# Discord-panel
+# Life-helper
 ![license](https://img.shields.io/github/license/notavone/life-helper.svg?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/notavone/life-helper.svg?style=for-the-badge)
 ![forks](https://img.shields.io/github/stars/notavone/life-helper?style=for-the-badge)
